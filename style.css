@@ -319,7 +319,7 @@ body {
 .header__a:hover {
   color: #27b881;
 }
-.header__logo {
+.custom-logo {
   margin: 0px 1.9375rem;
   width: 5.875rem;
   height: 5.3125rem;
